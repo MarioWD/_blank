@@ -1,2 +1,2 @@
-# _blank
-blank template to be improved and used with each new website
+# 6th sense company website code 
+WEBSITE CODE
