@@ -1,2 +1,2 @@
 # _blank
-blank template to be improved and used with each new website
+1 blank template to be improved and used with each new website
